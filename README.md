@@ -1,1 +1,1 @@
-Vendor blobs
+ICS/JB vendor blobs for HTC Explorer
