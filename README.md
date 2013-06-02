@@ -1,1 +1,1 @@
-Vendor blobs
+GB vendor blobs for HTC Explorer
